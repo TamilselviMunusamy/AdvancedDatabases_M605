@@ -1,0 +1,207 @@
+id,actual_arrival_date,created_on,custom_design,design,expected_arrival_date,message,quantity,sold_price,status,updated_on,boutique_product_title,order_address_address_id,user_id
+1,"2025-11-10 00:00:00.000000","2025-11-10 00:00:00.000000",1,"{"design": "Mango"}","2025-12-12 00:00:00.000000","Marriage order",4,4500,Pending,NULL,NULL,NULL,NULL
+2,"2025-11-01 10:00:00.000000","2025-10-01 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2025-12-01 10:00:00.000000","Wedding order",2,3500,Pending,NULL,NULL,NULL,NULL
+3,"2025-11-02 10:00:00.000000","2025-10-02 09:00:00.000000",0,"{"type": "Print", "pattern": "Mango"}","2025-12-02 10:00:00.000000","Casual wear",1,1500,Pending,NULL,NULL,NULL,NULL
+4,"2025-11-03 10:00:00.000000","2025-10-03 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Peacock"}","2025-12-03 10:00:00.000000","Festival order",3,4800,Pending,NULL,NULL,NULL,NULL
+5,"2025-11-04 10:00:00.000000","2025-10-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Leaf"}","2025-12-04 10:00:00.000000","Daily wear",2,1800,Pending,NULL,NULL,NULL,NULL
+6,"2025-11-05 10:00:00.000000","2025-10-05 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Temple"}","2025-12-05 10:00:00.000000","Bridal order",5,9500,Pending,NULL,NULL,NULL,NULL
+7,"2025-11-06 10:00:00.000000","2025-10-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2025-12-06 10:00:00.000000","Office wear",2,2200,Pending,NULL,NULL,NULL,NULL
+8,"2025-11-07 10:00:00.000000","2025-10-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-07 10:00:00.000000","Engagement order",3,5200,Pending,NULL,NULL,NULL,NULL
+9,"2025-11-08 10:00:00.000000","2025-10-08 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-08 10:00:00.000000","Gift order",1,3000,Pending,NULL,NULL,NULL,NULL
+10,"2025-11-09 10:00:00.000000","2025-10-09 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2025-12-09 10:00:00.000000","Party wear",4,6800,Pending,NULL,NULL,NULL,NULL
+11,"2025-11-10 10:00:00.000000","2025-10-10 09:00:00.000000",0,"{"type": "Print", "pattern": "Paisley"}","2025-12-10 10:00:00.000000","Regular order",2,2000,Pending,NULL,NULL,NULL,NULL
+12,"2025-11-11 10:00:00.000000","2025-10-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Mango"}","2025-12-11 10:00:00.000000","Marriage order",4,4500,Pending,NULL,NULL,NULL,NULL
+13,"2025-11-12 10:00:00.000000","2025-10-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2025-12-12 10:00:00.000000","Daily wear",1,1200,Pending,NULL,NULL,NULL,NULL
+14,"2025-11-13 10:00:00.000000","2025-10-13 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Peacock"}","2025-12-13 10:00:00.000000","Reception order",6,11000,Pending,NULL,NULL,NULL,NULL
+15,"2025-11-14 10:00:00.000000","2025-10-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2025-12-14 10:00:00.000000","Home wear",2,1700,Pending,NULL,NULL,NULL,NULL
+16,"2025-11-15 10:00:00.000000","2025-10-15 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2025-12-15 10:00:00.000000","Custom blouse",3,3900,Pending,NULL,NULL,NULL,NULL
+17,"2025-11-16 10:00:00.000000","2025-10-16 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2025-12-16 10:00:00.000000","Festival wear",2,4200,Pending,NULL,NULL,NULL,NULL
+18,"2025-11-17 10:00:00.000000","2025-10-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2025-12-17 10:00:00.000000","Special order",5,8800,Pending,NULL,NULL,NULL,NULL
+19,"2025-11-18 10:00:00.000000","2025-10-18 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2025-12-18 10:00:00.000000","Office order",2,2100,Pending,NULL,NULL,NULL,NULL
+20,"2025-11-19 10:00:00.000000","2025-10-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Lotus"}","2025-12-19 10:00:00.000000","Function order",4,6200,Pending,NULL,NULL,NULL,NULL
+21,"2025-11-20 10:00:00.000000","2025-10-20 09:00:00.000000",0,"{"type": "Print", "pattern": "Dots"}","2025-12-20 10:00:00.000000","Casual order",1,1300,Pending,NULL,NULL,NULL,NULL
+22,"2025-11-21 10:00:00.000000","2025-10-21 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2025-12-21 10:00:00.000000","Grand wedding",7,15000,Pending,NULL,NULL,NULL,NULL
+23,"2025-11-22 10:00:00.000000","2025-10-22 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2025-12-22 10:00:00.000000","Simple wear",2,1600,Pending,NULL,NULL,NULL,NULL
+24,"2025-11-23 10:00:00.000000","2025-10-23 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2025-12-23 10:00:00.000000","Designer blouse",3,5400,Pending,NULL,NULL,NULL,NULL
+25,"2025-11-24 10:00:00.000000","2025-10-24 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-24 10:00:00.000000","Bulk order",5,7000,Pending,NULL,NULL,NULL,NULL
+26,"2025-11-25 10:00:00.000000","2025-10-25 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold"}","2025-12-25 10:00:00.000000","Special festive",4,8200,Pending,NULL,NULL,NULL,NULL
+27,"2025-11-26 10:00:00.000000","2025-10-26 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Polka"}","2025-12-26 10:00:00.000000","Casual blouse",2,1800,Pending,NULL,NULL,NULL,NULL
+28,"2025-11-27 10:00:00.000000","2025-10-27 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-27 10:00:00.000000","Designer order",4,6200,Pending,NULL,NULL,NULL,NULL
+29,"2025-11-28 10:00:00.000000","2025-10-28 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-28 10:00:00.000000","Bulk casual order",6,7500,Pending,NULL,NULL,NULL,NULL
+30,"2025-11-29 10:00:00.000000","2025-10-29 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold Border"}","2025-12-29 10:00:00.000000","Wedding blouse",5,9800,Pending,NULL,NULL,NULL,NULL
+31,"2025-11-30 10:00:00.000000","2025-10-30 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-30 10:00:00.000000","Gift blouse",1,3200,Pending,NULL,NULL,NULL,NULL
+32,"2025-12-01 10:00:00.000000","2025-11-01 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2026-01-01 10:00:00.000000","Premium bridal",7,15500,Pending,NULL,NULL,NULL,NULL
+33,"2025-12-02 10:00:00.000000","2025-11-02 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2026-01-02 10:00:00.000000","Office blouse",2,2300,Pending,NULL,NULL,NULL,NULL
+34,"2025-12-03 10:00:00.000000","2025-11-03 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2026-01-03 10:00:00.000000","Custom temple design",4,6800,Pending,NULL,NULL,NULL,NULL
+35,"2025-12-04 10:00:00.000000","2025-11-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Modern"}","2026-01-04 10:00:00.000000","Modern wear",1,2100,Pending,NULL,NULL,NULL,NULL
+36,"2025-12-05 10:00:00.000000","2025-11-05 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2026-01-05 10:00:00.000000","Party blouse",3,5600,Pending,NULL,NULL,NULL,NULL
+37,"2025-12-06 10:00:00.000000","2025-11-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2026-01-06 10:00:00.000000","Daily use blouse",2,1900,Pending,NULL,NULL,NULL,NULL
+38,"2025-12-07 10:00:00.000000","2025-11-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Peacock"}","2026-01-07 10:00:00.000000","Special peacock design",5,8200,Pending,NULL,NULL,NULL,NULL
+39,"2025-12-08 10:00:00.000000","2025-11-08 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2026-01-08 10:00:00.000000","Home wear blouse",1,1700,Pending,NULL,NULL,NULL,NULL
+40,"2025-12-09 10:00:00.000000","2025-11-09 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Heavy"}","2026-01-09 10:00:00.000000","Heavy bridal",6,13500,Pending,NULL,NULL,NULL,NULL
+41,"2025-12-10 10:00:00.000000","2025-11-10 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2026-01-10 10:00:00.000000","Festival silk blouse",2,4800,Pending,NULL,NULL,NULL,NULL
+42,"2025-12-11 10:00:00.000000","2025-11-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2026-01-11 10:00:00.000000","Designer creeper work",4,6100,Pending,NULL,NULL,NULL,NULL
+43,"2025-12-12 10:00:00.000000","2025-11-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2026-01-12 10:00:00.000000","Simple cotton blouse",1,1400,Pending,NULL,NULL,NULL,NULL
+44,"2025-12-13 10:00:00.000000","2025-11-13 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2026-01-13 10:00:00.000000","Vine embroidery",3,5300,Pending,NULL,NULL,NULL,NULL
+45,"2025-12-14 10:00:00.000000","2025-11-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2026-01-14 10:00:00.000000","Ethnic casual",2,2600,Pending,NULL,NULL,NULL,NULL
+46,"2025-12-15 10:00:00.000000","2025-11-15 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Grand"}","2026-01-15 10:00:00.000000","Grand bridal order",8,17500,Pending,NULL,NULL,NULL,NULL
+47,"2025-12-16 10:00:00.000000","2025-11-16 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2026-01-16 10:00:00.000000","Checks blouse",2,2400,Pending,NULL,NULL,NULL,NULL
+48,"2025-12-17 10:00:00.000000","2025-11-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2026-01-17 10:00:00.000000","Floral aari",3,5900,Pending,NULL,NULL,NULL,NULL
+49,"2025-12-18 10:00:00.000000","2025-11-18 09:00:00.000000",0,"{"type": "Print", "pattern": "Minimal"}","2026-01-18 10:00:00.000000","Minimal print blouse",1,1600,Pending,NULL,NULL,NULL,NULL
+50,"2025-12-19 10:00:00.000000","2025-11-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Leaf"}","2026-01-19 10:00:00.000000","Leaf embroidery",4,6700,Pending,NULL,NULL,NULL,NULL
+51,"2025-12-20 10:00:00.000000","2025-11-20 09:00:00.000000",0,"{"type": "Silk", "pattern": "Contrast"}","2026-01-20 10:00:00.000000","Contrast silk blouse",2,5100,Pending,NULL,NULL,NULL,NULL
+52,"2025-11-26 10:00:00.000000","2025-10-26 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Polka"}","2025-12-26 10:00:00.000000","Casual blouse",2,1800,Pending,NULL,NULL,NULL,NULL
+53,"2025-11-27 10:00:00.000000","2025-10-27 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-27 10:00:00.000000","Designer order",4,6200,Pending,NULL,NULL,NULL,NULL
+54,"2025-11-28 10:00:00.000000","2025-10-28 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-28 10:00:00.000000","Bulk casual order",6,7500,Pending,NULL,NULL,NULL,NULL
+55,"2025-11-29 10:00:00.000000","2025-10-29 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold Border"}","2025-12-29 10:00:00.000000","Wedding blouse",5,9800,Pending,NULL,NULL,NULL,NULL
+56,"2025-11-30 10:00:00.000000","2025-10-30 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-30 10:00:00.000000","Gift blouse",1,3200,Pending,NULL,NULL,NULL,NULL
+57,"2025-12-01 10:00:00.000000","2025-11-01 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2026-01-01 10:00:00.000000","Premium bridal",7,15500,Pending,NULL,NULL,NULL,NULL
+58,"2025-12-02 10:00:00.000000","2025-11-02 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2026-01-02 10:00:00.000000","Office blouse",2,2300,Pending,NULL,NULL,NULL,NULL
+59,"2025-12-03 10:00:00.000000","2025-11-03 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2026-01-03 10:00:00.000000","Custom temple design",4,6800,Pending,NULL,NULL,NULL,NULL
+60,"2025-12-04 10:00:00.000000","2025-11-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Modern"}","2026-01-04 10:00:00.000000","Modern wear",1,2100,Pending,NULL,NULL,NULL,NULL
+61,"2025-12-05 10:00:00.000000","2025-11-05 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2026-01-05 10:00:00.000000","Party blouse",3,5600,Pending,NULL,NULL,NULL,NULL
+62,"2025-12-06 10:00:00.000000","2025-11-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2026-01-06 10:00:00.000000","Daily use blouse",2,1900,Pending,NULL,NULL,NULL,NULL
+63,"2025-12-07 10:00:00.000000","2025-11-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Peacock"}","2026-01-07 10:00:00.000000","Special peacock design",5,8200,Pending,NULL,NULL,NULL,NULL
+64,"2025-12-08 10:00:00.000000","2025-11-08 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2026-01-08 10:00:00.000000","Home wear blouse",1,1700,Pending,NULL,NULL,NULL,NULL
+65,"2025-12-09 10:00:00.000000","2025-11-09 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Heavy"}","2026-01-09 10:00:00.000000","Heavy bridal",6,13500,Pending,NULL,NULL,NULL,NULL
+66,"2025-12-10 10:00:00.000000","2025-11-10 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2026-01-10 10:00:00.000000","Festival silk blouse",2,4800,Pending,NULL,NULL,NULL,NULL
+67,"2025-12-11 10:00:00.000000","2025-11-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2026-01-11 10:00:00.000000","Designer creeper work",4,6100,Pending,NULL,NULL,NULL,NULL
+68,"2025-12-12 10:00:00.000000","2025-11-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2026-01-12 10:00:00.000000","Simple cotton blouse",1,1400,Pending,NULL,NULL,NULL,NULL
+69,"2025-12-13 10:00:00.000000","2025-11-13 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2026-01-13 10:00:00.000000","Vine embroidery",3,5300,Pending,NULL,NULL,NULL,NULL
+70,"2025-12-14 10:00:00.000000","2025-11-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2026-01-14 10:00:00.000000","Ethnic casual",2,2600,Pending,NULL,NULL,NULL,NULL
+71,"2025-12-15 10:00:00.000000","2025-11-15 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Grand"}","2026-01-15 10:00:00.000000","Grand bridal order",8,17500,Pending,NULL,NULL,NULL,NULL
+72,"2025-12-16 10:00:00.000000","2025-11-16 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2026-01-16 10:00:00.000000","Checks blouse",2,2400,Pending,NULL,NULL,NULL,NULL
+73,"2025-12-17 10:00:00.000000","2025-11-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2026-01-17 10:00:00.000000","Floral aari",3,5900,Pending,NULL,NULL,NULL,NULL
+74,"2025-12-18 10:00:00.000000","2025-11-18 09:00:00.000000",0,"{"type": "Print", "pattern": "Minimal"}","2026-01-18 10:00:00.000000","Minimal print blouse",1,1600,Pending,NULL,NULL,NULL,NULL
+75,"2025-12-19 10:00:00.000000","2025-11-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Leaf"}","2026-01-19 10:00:00.000000","Leaf embroidery",4,6700,Pending,NULL,NULL,NULL,NULL
+76,"2025-12-20 10:00:00.000000","2025-11-20 09:00:00.000000",0,"{"type": "Silk", "pattern": "Contrast"}","2026-01-20 10:00:00.000000","Contrast silk blouse",2,5100,Pending,NULL,NULL,NULL,NULL
+77,"2025-11-01 10:00:00.000000","2025-10-01 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2025-12-01 10:00:00.000000","Wedding order",2,3500,Pending,NULL,NULL,NULL,NULL
+78,"2025-11-02 10:00:00.000000","2025-10-02 09:00:00.000000",0,"{"type": "Print", "pattern": "Mango"}","2025-12-02 10:00:00.000000","Casual wear",1,1500,Pending,NULL,NULL,NULL,NULL
+79,"2025-11-03 10:00:00.000000","2025-10-03 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Peacock"}","2025-12-03 10:00:00.000000","Festival order",3,4800,Pending,NULL,NULL,NULL,NULL
+80,"2025-11-04 10:00:00.000000","2025-10-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Leaf"}","2025-12-04 10:00:00.000000","Daily wear",2,1800,Pending,NULL,NULL,NULL,NULL
+81,"2025-11-05 10:00:00.000000","2025-10-05 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Temple"}","2025-12-05 10:00:00.000000","Bridal order",5,9500,Pending,NULL,NULL,NULL,NULL
+82,"2025-11-06 10:00:00.000000","2025-10-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2025-12-06 10:00:00.000000","Office wear",2,2200,Pending,NULL,NULL,NULL,NULL
+83,"2025-11-07 10:00:00.000000","2025-10-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-07 10:00:00.000000","Engagement order",3,5200,Pending,NULL,NULL,NULL,NULL
+84,"2025-11-08 10:00:00.000000","2025-10-08 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-08 10:00:00.000000","Gift order",1,3000,Pending,NULL,NULL,NULL,NULL
+85,"2025-11-09 10:00:00.000000","2025-10-09 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2025-12-09 10:00:00.000000","Party wear",4,6800,Pending,NULL,NULL,NULL,NULL
+86,"2025-11-10 10:00:00.000000","2025-10-10 09:00:00.000000",0,"{"type": "Print", "pattern": "Paisley"}","2025-12-10 10:00:00.000000","Regular order",2,2000,Pending,NULL,NULL,NULL,NULL
+87,"2025-11-11 10:00:00.000000","2025-10-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Mango"}","2025-12-11 10:00:00.000000","Marriage order",4,4500,Pending,NULL,NULL,NULL,NULL
+88,"2025-11-12 10:00:00.000000","2025-10-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2025-12-12 10:00:00.000000","Daily wear",1,1200,Pending,NULL,NULL,NULL,NULL
+89,"2025-11-13 10:00:00.000000","2025-10-13 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Peacock"}","2025-12-13 10:00:00.000000","Reception order",6,11000,Pending,NULL,NULL,NULL,NULL
+90,"2025-11-14 10:00:00.000000","2025-10-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2025-12-14 10:00:00.000000","Home wear",2,1700,Pending,NULL,NULL,NULL,NULL
+91,"2025-11-15 10:00:00.000000","2025-10-15 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2025-12-15 10:00:00.000000","Custom blouse",3,3900,Pending,NULL,NULL,NULL,NULL
+92,"2025-11-16 10:00:00.000000","2025-10-16 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2025-12-16 10:00:00.000000","Festival wear",2,4200,Pending,NULL,NULL,NULL,NULL
+93,"2025-11-17 10:00:00.000000","2025-10-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2025-12-17 10:00:00.000000","Special order",5,8800,Pending,NULL,NULL,NULL,NULL
+94,"2025-11-18 10:00:00.000000","2025-10-18 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2025-12-18 10:00:00.000000","Office order",2,2100,Pending,NULL,NULL,NULL,NULL
+95,"2025-11-19 10:00:00.000000","2025-10-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Lotus"}","2025-12-19 10:00:00.000000","Function order",4,6200,Pending,NULL,NULL,NULL,NULL
+96,"2025-11-20 10:00:00.000000","2025-10-20 09:00:00.000000",0,"{"type": "Print", "pattern": "Dots"}","2025-12-20 10:00:00.000000","Casual order",1,1300,Pending,NULL,NULL,NULL,NULL
+97,"2025-11-21 10:00:00.000000","2025-10-21 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2025-12-21 10:00:00.000000","Grand wedding",7,15000,Pending,NULL,NULL,NULL,NULL
+98,"2025-11-22 10:00:00.000000","2025-10-22 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2025-12-22 10:00:00.000000","Simple wear",2,1600,Pending,NULL,NULL,NULL,NULL
+99,"2025-11-23 10:00:00.000000","2025-10-23 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2025-12-23 10:00:00.000000","Designer blouse",3,5400,Pending,NULL,NULL,NULL,NULL
+100,"2025-11-24 10:00:00.000000","2025-10-24 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-24 10:00:00.000000","Bulk order",5,7000,Pending,NULL,NULL,NULL,NULL
+101,"2025-11-25 10:00:00.000000","2025-10-25 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold"}","2025-12-25 10:00:00.000000","Special festive",4,8200,Pending,NULL,NULL,NULL,NULL
+102,"2025-11-26 10:00:00.000000","2025-10-26 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Polka"}","2025-12-26 10:00:00.000000","Casual blouse",2,1800,Pending,NULL,NULL,NULL,NULL
+103,"2025-11-27 10:00:00.000000","2025-10-27 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-27 10:00:00.000000","Designer order",4,6200,Pending,NULL,NULL,NULL,NULL
+104,"2025-11-28 10:00:00.000000","2025-10-28 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-28 10:00:00.000000","Bulk casual order",6,7500,Pending,NULL,NULL,NULL,NULL
+105,"2025-11-29 10:00:00.000000","2025-10-29 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold Border"}","2025-12-29 10:00:00.000000","Wedding blouse",5,9800,Pending,NULL,NULL,NULL,NULL
+106,"2025-11-30 10:00:00.000000","2025-10-30 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-30 10:00:00.000000","Gift blouse",1,3200,Pending,NULL,NULL,NULL,NULL
+107,"2025-12-01 10:00:00.000000","2025-11-01 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2026-01-01 10:00:00.000000","Premium bridal",7,15500,Pending,NULL,NULL,NULL,NULL
+108,"2025-12-02 10:00:00.000000","2025-11-02 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2026-01-02 10:00:00.000000","Office blouse",2,2300,Pending,NULL,NULL,NULL,NULL
+109,"2025-12-03 10:00:00.000000","2025-11-03 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2026-01-03 10:00:00.000000","Custom temple design",4,6800,Pending,NULL,NULL,NULL,NULL
+110,"2025-12-04 10:00:00.000000","2025-11-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Modern"}","2026-01-04 10:00:00.000000","Modern wear",1,2100,Pending,NULL,NULL,NULL,NULL
+111,"2025-12-05 10:00:00.000000","2025-11-05 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2026-01-05 10:00:00.000000","Party blouse",3,5600,Pending,NULL,NULL,NULL,NULL
+112,"2025-12-06 10:00:00.000000","2025-11-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2026-01-06 10:00:00.000000","Daily use blouse",2,1900,Pending,NULL,NULL,NULL,NULL
+113,"2025-12-07 10:00:00.000000","2025-11-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Peacock"}","2026-01-07 10:00:00.000000","Special peacock design",5,8200,Pending,NULL,NULL,NULL,NULL
+114,"2025-12-08 10:00:00.000000","2025-11-08 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2026-01-08 10:00:00.000000","Home wear blouse",1,1700,Pending,NULL,NULL,NULL,NULL
+115,"2025-12-09 10:00:00.000000","2025-11-09 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Heavy"}","2026-01-09 10:00:00.000000","Heavy bridal",6,13500,Pending,NULL,NULL,NULL,NULL
+116,"2025-12-10 10:00:00.000000","2025-11-10 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2026-01-10 10:00:00.000000","Festival silk blouse",2,4800,Pending,NULL,NULL,NULL,NULL
+117,"2025-12-11 10:00:00.000000","2025-11-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2026-01-11 10:00:00.000000","Designer creeper work",4,6100,Pending,NULL,NULL,NULL,NULL
+118,"2025-12-12 10:00:00.000000","2025-11-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2026-01-12 10:00:00.000000","Simple cotton blouse",1,1400,Pending,NULL,NULL,NULL,NULL
+119,"2025-12-13 10:00:00.000000","2025-11-13 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2026-01-13 10:00:00.000000","Vine embroidery",3,5300,Pending,NULL,NULL,NULL,NULL
+120,"2025-12-14 10:00:00.000000","2025-11-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2026-01-14 10:00:00.000000","Ethnic casual",2,2600,Pending,NULL,NULL,NULL,NULL
+121,"2025-12-15 10:00:00.000000","2025-11-15 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Grand"}","2026-01-15 10:00:00.000000","Grand bridal order",8,17500,Pending,NULL,NULL,NULL,NULL
+122,"2025-12-16 10:00:00.000000","2025-11-16 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2026-01-16 10:00:00.000000","Checks blouse",2,2400,Pending,NULL,NULL,NULL,NULL
+123,"2025-12-17 10:00:00.000000","2025-11-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2026-01-17 10:00:00.000000","Floral aari",3,5900,Pending,NULL,NULL,NULL,NULL
+124,"2025-12-18 10:00:00.000000","2025-11-18 09:00:00.000000",0,"{"type": "Print", "pattern": "Minimal"}","2026-01-18 10:00:00.000000","Minimal print blouse",1,1600,Pending,NULL,NULL,NULL,NULL
+125,"2025-12-19 10:00:00.000000","2025-11-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Leaf"}","2026-01-19 10:00:00.000000","Leaf embroidery",4,6700,Pending,NULL,NULL,NULL,NULL
+126,"2025-12-20 10:00:00.000000","2025-11-20 09:00:00.000000",0,"{"type": "Silk", "pattern": "Contrast"}","2026-01-20 10:00:00.000000","Contrast silk blouse",2,5100,Pending,NULL,NULL,NULL,NULL
+127,"2025-11-01 10:00:00.000000","2025-10-01 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2025-12-01 10:00:00.000000","Wedding order",2,3500,Pending,NULL,NULL,NULL,NULL
+128,"2025-11-02 10:00:00.000000","2025-10-02 09:00:00.000000",0,"{"type": "Print", "pattern": "Mango"}","2025-12-02 10:00:00.000000","Casual wear",1,1500,Pending,NULL,NULL,NULL,NULL
+129,"2025-11-03 10:00:00.000000","2025-10-03 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Peacock"}","2025-12-03 10:00:00.000000","Festival order",3,4800,Pending,NULL,NULL,NULL,NULL
+130,"2025-11-04 10:00:00.000000","2025-10-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Leaf"}","2025-12-04 10:00:00.000000","Daily wear",2,1800,Pending,NULL,NULL,NULL,NULL
+131,"2025-11-05 10:00:00.000000","2025-10-05 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Temple"}","2025-12-05 10:00:00.000000","Bridal order",5,9500,Pending,NULL,NULL,NULL,NULL
+132,"2025-11-06 10:00:00.000000","2025-10-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2025-12-06 10:00:00.000000","Office wear",2,2200,Pending,NULL,NULL,NULL,NULL
+133,"2025-11-07 10:00:00.000000","2025-10-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-07 10:00:00.000000","Engagement order",3,5200,Pending,NULL,NULL,NULL,NULL
+134,"2025-11-08 10:00:00.000000","2025-10-08 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-08 10:00:00.000000","Gift order",1,3000,Pending,NULL,NULL,NULL,NULL
+135,"2025-11-09 10:00:00.000000","2025-10-09 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2025-12-09 10:00:00.000000","Party wear",4,6800,Pending,NULL,NULL,NULL,NULL
+136,"2025-11-10 10:00:00.000000","2025-10-10 09:00:00.000000",0,"{"type": "Print", "pattern": "Paisley"}","2025-12-10 10:00:00.000000","Regular order",2,2000,Pending,NULL,NULL,NULL,NULL
+137,"2025-11-11 10:00:00.000000","2025-10-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Mango"}","2025-12-11 10:00:00.000000","Marriage order",4,4500,Pending,NULL,NULL,NULL,NULL
+138,"2025-11-12 10:00:00.000000","2025-10-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2025-12-12 10:00:00.000000","Daily wear",1,1200,Pending,NULL,NULL,NULL,NULL
+139,"2025-11-13 10:00:00.000000","2025-10-13 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Peacock"}","2025-12-13 10:00:00.000000","Reception order",6,11000,Pending,NULL,NULL,NULL,NULL
+140,"2025-11-14 10:00:00.000000","2025-10-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2025-12-14 10:00:00.000000","Home wear",2,1700,Pending,NULL,NULL,NULL,NULL
+141,"2025-11-15 10:00:00.000000","2025-10-15 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2025-12-15 10:00:00.000000","Custom blouse",3,3900,Pending,NULL,NULL,NULL,NULL
+142,"2025-11-16 10:00:00.000000","2025-10-16 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2025-12-16 10:00:00.000000","Festival wear",2,4200,Pending,NULL,NULL,NULL,NULL
+143,"2025-11-17 10:00:00.000000","2025-10-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2025-12-17 10:00:00.000000","Special order",5,8800,Pending,NULL,NULL,NULL,NULL
+144,"2025-11-18 10:00:00.000000","2025-10-18 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2025-12-18 10:00:00.000000","Office order",2,2100,Pending,NULL,NULL,NULL,NULL
+145,"2025-11-19 10:00:00.000000","2025-10-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Lotus"}","2025-12-19 10:00:00.000000","Function order",4,6200,Pending,NULL,NULL,NULL,NULL
+146,"2025-11-20 10:00:00.000000","2025-10-20 09:00:00.000000",0,"{"type": "Print", "pattern": "Dots"}","2025-12-20 10:00:00.000000","Casual order",1,1300,Pending,NULL,NULL,NULL,NULL
+147,"2025-11-21 10:00:00.000000","2025-10-21 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2025-12-21 10:00:00.000000","Grand wedding",7,15000,Pending,NULL,NULL,NULL,NULL
+148,"2025-11-22 10:00:00.000000","2025-10-22 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2025-12-22 10:00:00.000000","Simple wear",2,1600,Pending,NULL,NULL,NULL,NULL
+149,"2025-11-23 10:00:00.000000","2025-10-23 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2025-12-23 10:00:00.000000","Designer blouse",3,5400,Pending,NULL,NULL,NULL,NULL
+150,"2025-11-24 10:00:00.000000","2025-10-24 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-24 10:00:00.000000","Bulk order",5,7000,Pending,NULL,NULL,NULL,NULL
+151,"2025-11-25 10:00:00.000000","2025-10-25 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold"}","2025-12-25 10:00:00.000000","Special festive",4,8200,Pending,NULL,NULL,NULL,NULL
+152,"2025-11-26 10:00:00.000000","2025-10-26 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Polka"}","2025-12-26 10:00:00.000000","Casual blouse",2,1800,Pending,NULL,NULL,NULL,NULL
+153,"2025-11-27 10:00:00.000000","2025-10-27 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-27 10:00:00.000000","Designer order",4,6200,Pending,NULL,NULL,NULL,NULL
+154,"2025-11-28 10:00:00.000000","2025-10-28 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-28 10:00:00.000000","Bulk casual order",6,7500,Pending,NULL,NULL,NULL,NULL
+155,"2025-11-29 10:00:00.000000","2025-10-29 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold Border"}","2025-12-29 10:00:00.000000","Wedding blouse",5,9800,Pending,NULL,NULL,NULL,NULL
+156,"2025-11-30 10:00:00.000000","2025-10-30 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-30 10:00:00.000000","Gift blouse",1,3200,Pending,NULL,NULL,NULL,NULL
+157,"2025-12-01 10:00:00.000000","2025-11-01 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2026-01-01 10:00:00.000000","Premium bridal",7,15500,Pending,NULL,NULL,NULL,NULL
+158,"2025-12-02 10:00:00.000000","2025-11-02 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2026-01-02 10:00:00.000000","Office blouse",2,2300,Pending,NULL,NULL,NULL,NULL
+159,"2025-12-03 10:00:00.000000","2025-11-03 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2026-01-03 10:00:00.000000","Custom temple design",4,6800,Pending,NULL,NULL,NULL,NULL
+160,"2025-12-04 10:00:00.000000","2025-11-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Modern"}","2026-01-04 10:00:00.000000","Modern wear",1,2100,Pending,NULL,NULL,NULL,NULL
+161,"2025-12-05 10:00:00.000000","2025-11-05 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2026-01-05 10:00:00.000000","Party blouse",3,5600,Pending,NULL,NULL,NULL,NULL
+162,"2025-12-06 10:00:00.000000","2025-11-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2026-01-06 10:00:00.000000","Daily use blouse",2,1900,Pending,NULL,NULL,NULL,NULL
+163,"2025-12-07 10:00:00.000000","2025-11-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Peacock"}","2026-01-07 10:00:00.000000","Special peacock design",5,8200,Pending,NULL,NULL,NULL,NULL
+164,"2025-12-08 10:00:00.000000","2025-11-08 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2026-01-08 10:00:00.000000","Home wear blouse",1,1700,Pending,NULL,NULL,NULL,NULL
+165,"2025-12-09 10:00:00.000000","2025-11-09 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Heavy"}","2026-01-09 10:00:00.000000","Heavy bridal",6,13500,Pending,NULL,NULL,NULL,NULL
+166,"2025-12-10 10:00:00.000000","2025-11-10 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2026-01-10 10:00:00.000000","Festival silk blouse",2,4800,Pending,NULL,NULL,NULL,NULL
+167,"2025-12-11 10:00:00.000000","2025-11-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2026-01-11 10:00:00.000000","Designer creeper work",4,6100,Pending,NULL,NULL,NULL,NULL
+168,"2025-12-12 10:00:00.000000","2025-11-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2026-01-12 10:00:00.000000","Simple cotton blouse",1,1400,Pending,NULL,NULL,NULL,NULL
+169,"2025-12-13 10:00:00.000000","2025-11-13 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2026-01-13 10:00:00.000000","Vine embroidery",3,5300,Pending,NULL,NULL,NULL,NULL
+170,"2025-12-14 10:00:00.000000","2025-11-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2026-01-14 10:00:00.000000","Ethnic casual",2,2600,Pending,NULL,NULL,NULL,NULL
+171,"2025-12-15 10:00:00.000000","2025-11-15 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Grand"}","2026-01-15 10:00:00.000000","Grand bridal order",8,17500,Pending,NULL,NULL,NULL,NULL
+172,"2025-12-16 10:00:00.000000","2025-11-16 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2026-01-16 10:00:00.000000","Checks blouse",2,2400,Pending,NULL,NULL,NULL,NULL
+173,"2025-12-17 10:00:00.000000","2025-11-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2026-01-17 10:00:00.000000","Floral aari",3,5900,Pending,NULL,NULL,NULL,NULL
+174,"2025-12-18 10:00:00.000000","2025-11-18 09:00:00.000000",0,"{"type": "Print", "pattern": "Minimal"}","2026-01-18 10:00:00.000000","Minimal print blouse",1,1600,Pending,NULL,NULL,NULL,NULL
+175,"2025-12-19 10:00:00.000000","2025-11-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Leaf"}","2026-01-19 10:00:00.000000","Leaf embroidery",4,6700,Pending,NULL,NULL,NULL,NULL
+176,"2025-12-20 10:00:00.000000","2025-11-20 09:00:00.000000",0,"{"type": "Silk", "pattern": "Contrast"}","2026-01-20 10:00:00.000000","Contrast silk blouse",2,5100,Pending,NULL,NULL,NULL,NULL
+202,"2025-11-10 00:00:00.000000","2025-11-10 00:00:00.000000",1,"{"work": "Aari", "design": "Mango"}","2025-12-12 00:00:00.000000","Marriage order",4,4500,NEW,NULL,NULL,NULL,NULL
+203,"2025-11-10 00:00:00.000000","2025-11-10 00:00:00.000000",1,"{"work": "Aari", "design": "Mango"}","2025-12-12 00:00:00.000000","Marriage order",4,4500,NEW,NULL,NULL,NULL,NULL
+210,"2025-11-10 00:00:00.000000","2025-11-10 00:00:00.000000",1,"{"work": "Aari"}","2025-12-12 00:00:00.000000","Marriage order",4,4500,CREATED,NULL,NULL,NULL,NULL
+211,"2025-11-10 00:00:00.000000","2025-11-10 00:00:00.000000",1,"{"design": "Aari work"}","2025-12-12 00:00:00.000000","Marriage order",4,4500,CREATED,NULL,NULL,NULL,NULL
+212,"2025-11-26 10:00:00.000000","2025-10-26 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Polka"}","2025-12-26 10:00:00.000000","Casual blouse",2,1800,Pending,NULL,NULL,NULL,NULL
+213,"2025-11-27 10:00:00.000000","2025-10-27 09:00:00.000000",1,"{"type": "Aari", "pattern": "Lotus"}","2025-12-27 10:00:00.000000","Designer order",4,6200,Pending,NULL,NULL,NULL,NULL
+214,"2025-11-28 10:00:00.000000","2025-10-28 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2025-12-28 10:00:00.000000","Bulk casual order",6,7500,Pending,NULL,NULL,NULL,NULL
+215,"2025-11-29 10:00:00.000000","2025-10-29 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Gold Border"}","2025-12-29 10:00:00.000000","Wedding blouse",5,9800,Pending,NULL,NULL,NULL,NULL
+216,"2025-11-30 10:00:00.000000","2025-10-30 09:00:00.000000",0,"{"type": "Silk", "pattern": "Plain"}","2025-12-30 10:00:00.000000","Gift blouse",1,3200,Pending,NULL,NULL,NULL,NULL
+217,"2025-12-01 10:00:00.000000","2025-11-01 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Royal"}","2026-01-01 10:00:00.000000","Premium bridal",7,15500,Pending,NULL,NULL,NULL,NULL
+218,"2025-12-02 10:00:00.000000","2025-11-02 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Striped"}","2026-01-02 10:00:00.000000","Office blouse",2,2300,Pending,NULL,NULL,NULL,NULL
+219,"2025-12-03 10:00:00.000000","2025-11-03 09:00:00.000000",1,"{"type": "Aari", "pattern": "Temple"}","2026-01-03 10:00:00.000000","Custom temple design",4,6800,Pending,NULL,NULL,NULL,NULL
+220,"2025-12-04 10:00:00.000000","2025-11-04 09:00:00.000000",0,"{"type": "Print", "pattern": "Modern"}","2026-01-04 10:00:00.000000","Modern wear",1,2100,Pending,NULL,NULL,NULL,NULL
+221,"2025-12-05 10:00:00.000000","2025-11-05 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Rose"}","2026-01-05 10:00:00.000000","Party blouse",3,5600,Pending,NULL,NULL,NULL,NULL
+222,"2025-12-06 10:00:00.000000","2025-11-06 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Floral"}","2026-01-06 10:00:00.000000","Daily use blouse",2,1900,Pending,NULL,NULL,NULL,NULL
+223,"2025-12-07 10:00:00.000000","2025-11-07 09:00:00.000000",1,"{"type": "Aari", "pattern": "Peacock"}","2026-01-07 10:00:00.000000","Special peacock design",5,8200,Pending,NULL,NULL,NULL,NULL
+224,"2025-12-08 10:00:00.000000","2025-11-08 09:00:00.000000",0,"{"type": "Print", "pattern": "Abstract"}","2026-01-08 10:00:00.000000","Home wear blouse",1,1700,Pending,NULL,NULL,NULL,NULL
+225,"2025-12-09 10:00:00.000000","2025-11-09 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Heavy"}","2026-01-09 10:00:00.000000","Heavy bridal",6,13500,Pending,NULL,NULL,NULL,NULL
+226,"2025-12-10 10:00:00.000000","2025-11-10 09:00:00.000000",0,"{"type": "Silk", "pattern": "Border"}","2026-01-10 10:00:00.000000","Festival silk blouse",2,4800,Pending,NULL,NULL,NULL,NULL
+227,"2025-12-11 10:00:00.000000","2025-11-11 09:00:00.000000",1,"{"type": "Aari", "pattern": "Creeper"}","2026-01-11 10:00:00.000000","Designer creeper work",4,6100,Pending,NULL,NULL,NULL,NULL
+228,"2025-12-12 10:00:00.000000","2025-11-12 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Plain"}","2026-01-12 10:00:00.000000","Simple cotton blouse",1,1400,Pending,NULL,NULL,NULL,NULL
+229,"2025-12-13 10:00:00.000000","2025-11-13 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Vine"}","2026-01-13 10:00:00.000000","Vine embroidery",3,5300,Pending,NULL,NULL,NULL,NULL
+230,"2025-12-14 10:00:00.000000","2025-11-14 09:00:00.000000",0,"{"type": "Print", "pattern": "Ethnic"}","2026-01-14 10:00:00.000000","Ethnic casual",2,2600,Pending,NULL,NULL,NULL,NULL
+231,"2025-12-15 10:00:00.000000","2025-11-15 09:00:00.000000",1,"{"type": "Zardosi", "pattern": "Grand"}","2026-01-15 10:00:00.000000","Grand bridal order",8,17500,Pending,NULL,NULL,NULL,NULL
+232,"2025-12-16 10:00:00.000000","2025-11-16 09:00:00.000000",0,"{"type": "Cotton", "pattern": "Checks"}","2026-01-16 10:00:00.000000","Checks blouse",2,2400,Pending,NULL,NULL,NULL,NULL
+233,"2025-12-17 10:00:00.000000","2025-11-17 09:00:00.000000",1,"{"type": "Aari", "pattern": "Floral"}","2026-01-17 10:00:00.000000","Floral aari",3,5900,Pending,NULL,NULL,NULL,NULL
+234,"2025-12-18 10:00:00.000000","2025-11-18 09:00:00.000000",0,"{"type": "Print", "pattern": "Minimal"}","2026-01-18 10:00:00.000000","Minimal print blouse",1,1600,Pending,NULL,NULL,NULL,NULL
+235,"2025-12-19 10:00:00.000000","2025-11-19 09:00:00.000000",1,"{"type": "Embroidery", "pattern": "Leaf"}","2026-01-19 10:00:00.000000","Leaf embroidery",4,6700,Pending,NULL,NULL,NULL,NULL
+236,"2025-12-20 10:00:00.000000","2025-11-20 09:00:00.000000",0,"{"type": "Silk", "pattern": "Contrast"}","2026-01-20 10:00:00.000000","Contrast silk blouse",2,5100,Pending,NULL,NULL,NULL,NULL
+237,"2025-11-10 00:00:00.000000","2025-11-10 00:00:00.000000",1,"{"design": "Mango"}","2025-12-12 00:00:00.000000","Marriage order",4,4500,Pending,NULL,NULL,NULL,NULL
