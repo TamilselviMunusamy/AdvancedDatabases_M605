@@ -1,0 +1,124 @@
+address_id,address1,address2,city,country,created_at,pin_code,state,updated_at,user_id
+1,"No 12, MG Road","Near Metro Station",Bangalore,India,"2025-12-14 22:56:25.000000",560001,Karnataka,"2025-12-14 22:56:25.000000",1
+2,"Flat 302, Green Apartments",NULL,Chennai,India,"2025-12-14 22:56:25.000000",600028,"Tamil Nadu","2025-12-14 22:56:25.000000",1
+3,"House 45, Sector 9","Near Park",Noida,India,"2025-12-14 22:56:25.000000",201301,"Uttar Pradesh","2025-12-14 22:56:25.000000",2
+4,"Plot 77","Phase 2",Hyderabad,India,"2025-12-14 22:56:25.000000",500081,Telangana,"2025-12-14 22:56:25.000000",2
+5,"Door No 18","Anna Nagar",Chennai,India,"2025-12-14 22:56:25.000000",600040,"Tamil Nadu","2025-12-14 22:56:25.000000",3
+6,"Apartment 5B","Lake View",Bangalore,India,"2025-12-14 22:56:25.000000",560103,Karnataka,"2025-12-14 22:56:25.000000",3
+7,"House 11","Street 4",Delhi,India,"2025-12-14 22:56:25.000000",110001,Delhi,"2025-12-14 22:56:25.000000",4
+8,"Villa 21","Palm Meadows",Bangalore,India,"2025-12-14 22:56:25.000000",560066,Karnataka,"2025-12-14 22:56:25.000000",4
+9,"Flat 201","Sunrise Apartments",Pune,India,"2025-12-14 22:56:25.000000",411001,Maharashtra,"2025-12-14 22:56:25.000000",5
+10,"Row House 9",NULL,Mumbai,India,"2025-12-14 22:56:25.000000",400001,Maharashtra,"2025-12-14 22:56:25.000000",5
+11,"House 14","Near Temple",Madurai,India,"2025-12-14 22:56:25.000000",625001,"Tamil Nadu","2025-12-14 22:56:25.000000",6
+12,"Flat 404","Skyline Towers",Kochi,India,"2025-12-14 22:56:25.000000",682001,Kerala,"2025-12-14 22:56:25.000000",6
+13,"Door No 8",NULL,Trichy,India,"2025-12-14 22:56:25.000000",620001,"Tamil Nadu","2025-12-14 22:56:25.000000",7
+14,"Apartment 301","Central Residency",Coimbatore,India,"2025-12-14 22:56:25.000000",641001,"Tamil Nadu","2025-12-14 22:56:25.000000",7
+15,"House 90","West Street",Salem,India,"2025-12-14 22:56:25.000000",636001,"Tamil Nadu","2025-12-14 22:56:25.000000",8
+16,"Flat 102","Rose Garden",Vellore,India,"2025-12-14 22:56:25.000000",632001,"Tamil Nadu","2025-12-14 22:56:25.000000",8
+17,"Plot 55","Tech Park Road",Bangalore,India,"2025-12-14 22:56:25.000000",560037,Karnataka,"2025-12-14 22:56:25.000000",9
+18,"Villa 3","Hill View",Ooty,India,"2025-12-14 22:56:25.000000",643001,"Tamil Nadu","2025-12-14 22:56:25.000000",9
+19,"Flat 12A","City Heights",Trivandrum,India,"2025-12-14 22:56:25.000000",695001,Kerala,"2025-12-14 22:56:25.000000",10
+20,"House 67","Old Town",Mysore,India,"2025-12-14 22:56:25.000000",570001,Karnataka,"2025-12-14 22:56:25.000000",10
+21,"Flat 505","Lake Residency",Bangalore,India,"2025-12-14 22:56:25.000000",560102,Karnataka,"2025-12-14 22:56:25.000000",11
+22,"House 23","Main Road",Erode,India,"2025-12-14 22:56:25.000000",638001,"Tamil Nadu","2025-12-14 22:56:25.000000",11
+23,"Apartment 110",NULL,Karur,India,"2025-12-14 22:56:25.000000",639001,"Tamil Nadu","2025-12-14 22:56:25.000000",12
+24,"Flat 309","Park Avenue",Chennai,India,"2025-12-14 22:56:25.000000",600018,"Tamil Nadu","2025-12-14 22:56:25.000000",12
+25,"House 81","Market Area",Tiruppur,India,"2025-12-14 22:56:25.000000",641601,"Tamil Nadu","2025-12-14 22:56:25.000000",13
+26,"Villa 6","Green Valley",Hosur,India,"2025-12-14 22:56:25.000000",635109,"Tamil Nadu","2025-12-14 22:56:25.000000",13
+27,"Flat 702","Elite Homes",Bangalore,India,"2025-12-14 22:56:25.000000",560048,Karnataka,"2025-12-14 22:56:25.000000",14
+28,"House 10",NULL,Kanyakumari,India,"2025-12-14 22:56:25.000000",629702,"Tamil Nadu","2025-12-14 22:56:25.000000",14
+29,"Apartment 215","Metro View",Delhi,India,"2025-12-14 22:56:25.000000",110092,Delhi,"2025-12-14 22:56:25.000000",15
+30,"Flat 401","Golden Towers",Gurgaon,India,"2025-12-14 22:56:25.000000",122001,Haryana,"2025-12-14 22:56:25.000000",15
+31,"House 59","East Street",Jaipur,India,"2025-12-14 22:56:25.000000",302001,Rajasthan,"2025-12-14 22:56:25.000000",16
+32,"Flat 208","Royal Residency",Udaipur,India,"2025-12-14 22:56:25.000000",313001,Rajasthan,"2025-12-14 22:56:25.000000",16
+33,"Apartment 310","Blue City",Jodhpur,India,"2025-12-14 22:56:25.000000",342001,Rajasthan,"2025-12-14 22:56:25.000000",17
+34,"House 7",NULL,Ajmer,India,"2025-12-14 22:56:25.000000",305001,Rajasthan,"2025-12-14 22:56:25.000000",17
+35,"Flat 901","City Square",Ahmedabad,India,"2025-12-14 22:56:25.000000",380001,Gujarat,"2025-12-14 22:56:25.000000",18
+36,"House 33","River Road",Surat,India,"2025-12-14 22:56:25.000000",395003,Gujarat,"2025-12-14 22:56:25.000000",18
+37,"Apartment 112","Ocean View",Goa,India,"2025-12-14 22:56:25.000000",403001,Goa,"2025-12-14 22:56:25.000000",19
+38,"Villa 2","Beach Side",Goa,India,"2025-12-14 22:56:25.000000",403002,Goa,"2025-12-14 22:56:25.000000",19
+39,"Flat 606","Tech Residency",Bangalore,India,"2025-12-14 22:56:25.000000",560100,Karnataka,"2025-12-14 22:56:25.000000",20
+40,"House 99","Ring Road",Indore,India,"2025-12-14 22:56:25.000000",452001,"Madhya Pradesh","2025-12-14 22:56:25.000000",20
+41,"No 12, MG Road","Near Metro Station",Bangalore,India,"2025-12-14 22:56:53.000000",560001,Karnataka,"2025-12-14 22:56:53.000000",1
+42,"Flat 302, Green Apartments",NULL,Chennai,India,"2025-12-14 22:56:53.000000",600028,"Tamil Nadu","2025-12-14 22:56:53.000000",1
+43,"House 45, Sector 9","Near Park",Noida,India,"2025-12-14 22:56:53.000000",201301,"Uttar Pradesh","2025-12-14 22:56:53.000000",2
+44,"Plot 77","Phase 2",Hyderabad,India,"2025-12-14 22:56:53.000000",500081,Telangana,"2025-12-14 22:56:53.000000",2
+45,"Door No 18","Anna Nagar",Chennai,India,"2025-12-14 22:56:53.000000",600040,"Tamil Nadu","2025-12-14 22:56:53.000000",3
+46,"Apartment 5B","Lake View",Bangalore,India,"2025-12-14 22:56:53.000000",560103,Karnataka,"2025-12-14 22:56:53.000000",3
+47,"House 11","Street 4",Delhi,India,"2025-12-14 22:56:53.000000",110001,Delhi,"2025-12-14 22:56:53.000000",4
+48,"Villa 21","Palm Meadows",Bangalore,India,"2025-12-14 22:56:53.000000",560066,Karnataka,"2025-12-14 22:56:53.000000",4
+49,"Flat 201","Sunrise Apartments",Pune,India,"2025-12-14 22:56:53.000000",411001,Maharashtra,"2025-12-14 22:56:53.000000",5
+50,"Row House 9",NULL,Mumbai,India,"2025-12-14 22:56:53.000000",400001,Maharashtra,"2025-12-14 22:56:53.000000",5
+51,"House 14","Near Temple",Madurai,India,"2025-12-14 22:56:53.000000",625001,"Tamil Nadu","2025-12-14 22:56:53.000000",6
+52,"Flat 404","Skyline Towers",Kochi,India,"2025-12-14 22:56:53.000000",682001,Kerala,"2025-12-14 22:56:53.000000",6
+53,"Door No 8",NULL,Trichy,India,"2025-12-14 22:56:53.000000",620001,"Tamil Nadu","2025-12-14 22:56:53.000000",7
+54,"Apartment 301","Central Residency",Coimbatore,India,"2025-12-14 22:56:53.000000",641001,"Tamil Nadu","2025-12-14 22:56:53.000000",7
+55,"House 90","West Street",Salem,India,"2025-12-14 22:56:53.000000",636001,"Tamil Nadu","2025-12-14 22:56:53.000000",8
+56,"Flat 102","Rose Garden",Vellore,India,"2025-12-14 22:56:53.000000",632001,"Tamil Nadu","2025-12-14 22:56:53.000000",8
+57,"Plot 55","Tech Park Road",Bangalore,India,"2025-12-14 22:56:53.000000",560037,Karnataka,"2025-12-14 22:56:53.000000",9
+58,"Villa 3","Hill View",Ooty,India,"2025-12-14 22:56:53.000000",643001,"Tamil Nadu","2025-12-14 22:56:53.000000",9
+59,"Flat 12A","City Heights",Trivandrum,India,"2025-12-14 22:56:53.000000",695001,Kerala,"2025-12-14 22:56:53.000000",10
+60,"House 67","Old Town",Mysore,India,"2025-12-14 22:56:53.000000",570001,Karnataka,"2025-12-14 22:56:53.000000",10
+61,"Flat 505","Lake Residency",Bangalore,India,"2025-12-14 22:56:53.000000",560102,Karnataka,"2025-12-14 22:56:53.000000",11
+62,"House 23","Main Road",Erode,India,"2025-12-14 22:56:53.000000",638001,"Tamil Nadu","2025-12-14 22:56:53.000000",11
+63,"Apartment 110",NULL,Karur,India,"2025-12-14 22:56:53.000000",639001,"Tamil Nadu","2025-12-14 22:56:53.000000",12
+64,"Flat 309","Park Avenue",Chennai,India,"2025-12-14 22:56:53.000000",600018,"Tamil Nadu","2025-12-14 22:56:53.000000",12
+65,"House 81","Market Area",Tiruppur,India,"2025-12-14 22:56:53.000000",641601,"Tamil Nadu","2025-12-14 22:56:53.000000",13
+66,"Villa 6","Green Valley",Hosur,India,"2025-12-14 22:56:53.000000",635109,"Tamil Nadu","2025-12-14 22:56:53.000000",13
+67,"Flat 702","Elite Homes",Bangalore,India,"2025-12-14 22:56:53.000000",560048,Karnataka,"2025-12-14 22:56:53.000000",14
+68,"House 10",NULL,Kanyakumari,India,"2025-12-14 22:56:53.000000",629702,"Tamil Nadu","2025-12-14 22:56:53.000000",14
+69,"Apartment 215","Metro View",Delhi,India,"2025-12-14 22:56:53.000000",110092,Delhi,"2025-12-14 22:56:53.000000",15
+70,"Flat 401","Golden Towers",Gurgaon,India,"2025-12-14 22:56:53.000000",122001,Haryana,"2025-12-14 22:56:53.000000",15
+71,"House 59","East Street",Jaipur,India,"2025-12-14 22:56:53.000000",302001,Rajasthan,"2025-12-14 22:56:53.000000",16
+72,"Flat 208","Royal Residency",Udaipur,India,"2025-12-14 22:56:53.000000",313001,Rajasthan,"2025-12-14 22:56:53.000000",16
+73,"Apartment 310","Blue City",Jodhpur,India,"2025-12-14 22:56:53.000000",342001,Rajasthan,"2025-12-14 22:56:53.000000",17
+74,"House 7",NULL,Ajmer,India,"2025-12-14 22:56:53.000000",305001,Rajasthan,"2025-12-14 22:56:53.000000",17
+75,"Flat 901","City Square",Ahmedabad,India,"2025-12-14 22:56:53.000000",380001,Gujarat,"2025-12-14 22:56:53.000000",18
+76,"House 33","River Road",Surat,India,"2025-12-14 22:56:53.000000",395003,Gujarat,"2025-12-14 22:56:53.000000",18
+77,"Apartment 112","Ocean View",Goa,India,"2025-12-14 22:56:53.000000",403001,Goa,"2025-12-14 22:56:53.000000",19
+78,"Villa 2","Beach Side",Goa,India,"2025-12-14 22:56:53.000000",403002,Goa,"2025-12-14 22:56:53.000000",19
+79,"Flat 606","Tech Residency",Bangalore,India,"2025-12-14 22:56:53.000000",560100,Karnataka,"2025-12-14 22:56:53.000000",20
+80,"House 99","Ring Road",Indore,India,"2025-12-14 22:56:53.000000",452001,"Madhya Pradesh","2025-12-14 22:56:53.000000",20
+81,"No 12, MG Road","Near Metro Station",Bangalore,India,"2025-12-14 23:01:14.000000",560001,Karnataka,"2025-12-14 23:01:14.000000",1
+82,"Flat 302, Green Apartments",NULL,Chennai,India,"2025-12-14 23:01:14.000000",600028,"Tamil Nadu","2025-12-14 23:01:14.000000",1
+83,"House 45, Sector 9","Near Park",Noida,India,"2025-12-14 23:01:14.000000",201301,"Uttar Pradesh","2025-12-14 23:01:14.000000",2
+84,"Plot 77","Phase 2",Hyderabad,India,"2025-12-14 23:01:14.000000",500081,Telangana,"2025-12-14 23:01:14.000000",2
+85,"Door No 18","Anna Nagar",Chennai,India,"2025-12-14 23:01:14.000000",600040,"Tamil Nadu","2025-12-14 23:01:14.000000",3
+86,"Apartment 5B","Lake View",Bangalore,India,"2025-12-14 23:01:14.000000",560103,Karnataka,"2025-12-14 23:01:14.000000",3
+87,"House 11","Street 4",Delhi,India,"2025-12-14 23:01:14.000000",110001,Delhi,"2025-12-14 23:01:14.000000",4
+88,"Villa 21","Palm Meadows",Bangalore,India,"2025-12-14 23:01:14.000000",560066,Karnataka,"2025-12-14 23:01:14.000000",4
+89,"Flat 201","Sunrise Apartments",Pune,India,"2025-12-14 23:01:14.000000",411001,Maharashtra,"2025-12-14 23:01:14.000000",5
+90,"Row House 9",NULL,Mumbai,India,"2025-12-14 23:01:14.000000",400001,Maharashtra,"2025-12-14 23:01:14.000000",5
+91,"House 14","Near Temple",Madurai,India,"2025-12-14 23:01:14.000000",625001,"Tamil Nadu","2025-12-14 23:01:14.000000",6
+92,"Flat 404","Skyline Towers",Kochi,India,"2025-12-14 23:01:14.000000",682001,Kerala,"2025-12-14 23:01:14.000000",6
+93,"Door No 8",NULL,Trichy,India,"2025-12-14 23:01:14.000000",620001,"Tamil Nadu","2025-12-14 23:01:14.000000",7
+94,"Apartment 301","Central Residency",Coimbatore,India,"2025-12-14 23:01:14.000000",641001,"Tamil Nadu","2025-12-14 23:01:14.000000",7
+95,"House 90","West Street",Salem,India,"2025-12-14 23:01:14.000000",636001,"Tamil Nadu","2025-12-14 23:01:14.000000",8
+96,"Flat 102","Rose Garden",Vellore,India,"2025-12-14 23:01:14.000000",632001,"Tamil Nadu","2025-12-14 23:01:14.000000",8
+97,"Plot 55","Tech Park Road",Bangalore,India,"2025-12-14 23:01:14.000000",560037,Karnataka,"2025-12-14 23:01:14.000000",9
+98,"Villa 3","Hill View",Ooty,India,"2025-12-14 23:01:14.000000",643001,"Tamil Nadu","2025-12-14 23:01:14.000000",9
+99,"Flat 12A","City Heights",Trivandrum,India,"2025-12-14 23:01:14.000000",695001,Kerala,"2025-12-14 23:01:14.000000",10
+100,"House 67","Old Town",Mysore,India,"2025-12-14 23:01:14.000000",570001,Karnataka,"2025-12-14 23:01:14.000000",10
+101,"Flat 505","Lake Residency",Bangalore,India,"2025-12-14 23:01:14.000000",560102,Karnataka,"2025-12-14 23:01:14.000000",11
+102,"House 23","Main Road",Erode,India,"2025-12-14 23:01:14.000000",638001,"Tamil Nadu","2025-12-14 23:01:14.000000",11
+103,"Apartment 110",NULL,Karur,India,"2025-12-14 23:01:14.000000",639001,"Tamil Nadu","2025-12-14 23:01:14.000000",12
+104,"Flat 309","Park Avenue",Chennai,India,"2025-12-14 23:01:14.000000",600018,"Tamil Nadu","2025-12-14 23:01:14.000000",12
+105,"House 81","Market Area",Tiruppur,India,"2025-12-14 23:01:14.000000",641601,"Tamil Nadu","2025-12-14 23:01:14.000000",13
+106,"Villa 6","Green Valley",Hosur,India,"2025-12-14 23:01:14.000000",635109,"Tamil Nadu","2025-12-14 23:01:14.000000",13
+107,"Flat 702","Elite Homes",Bangalore,India,"2025-12-14 23:01:14.000000",560048,Karnataka,"2025-12-14 23:01:14.000000",14
+108,"House 10",NULL,Kanyakumari,India,"2025-12-14 23:01:14.000000",629702,"Tamil Nadu","2025-12-14 23:01:14.000000",14
+109,"Apartment 215","Metro View",Delhi,India,"2025-12-14 23:01:14.000000",110092,Delhi,"2025-12-14 23:01:14.000000",15
+110,"Flat 401","Golden Towers",Gurgaon,India,"2025-12-14 23:01:14.000000",122001,Haryana,"2025-12-14 23:01:14.000000",15
+111,"House 59","East Street",Jaipur,India,"2025-12-14 23:01:14.000000",302001,Rajasthan,"2025-12-14 23:01:14.000000",16
+112,"Flat 208","Royal Residency",Udaipur,India,"2025-12-14 23:01:14.000000",313001,Rajasthan,"2025-12-14 23:01:14.000000",16
+113,"Apartment 310","Blue City",Jodhpur,India,"2025-12-14 23:01:14.000000",342001,Rajasthan,"2025-12-14 23:01:14.000000",17
+114,"House 7",NULL,Ajmer,India,"2025-12-14 23:01:14.000000",305001,Rajasthan,"2025-12-14 23:01:14.000000",17
+115,"Flat 901","City Square",Ahmedabad,India,"2025-12-14 23:01:14.000000",380001,Gujarat,"2025-12-14 23:01:14.000000",18
+116,"House 33","River Road",Surat,India,"2025-12-14 23:01:14.000000",395003,Gujarat,"2025-12-14 23:01:14.000000",18
+117,"Apartment 112","Ocean View",Goa,India,"2025-12-14 23:01:14.000000",403001,Goa,"2025-12-14 23:01:14.000000",19
+118,"Villa 2","Beach Side",Goa,India,"2025-12-14 23:01:14.000000",403002,Goa,"2025-12-14 23:01:14.000000",19
+119,"Flat 606","Tech Residency",Bangalore,India,"2025-12-14 23:01:14.000000",560100,Karnataka,"2025-12-14 23:01:14.000000",20
+120,"House 99","Ring Road",Indore,India,"2025-12-14 23:01:14.000000",452001,"Madhya Pradesh","2025-12-14 23:01:14.000000",20
+121,"123 Main Street","Apt 4B",Chennai,India,"2025-12-14 23:42:46.000000",600001,"Tamil Nadu","2025-12-14 23:42:46.000000",1
+122,"123 Main Street","Apt 4B",Chennai,India,"2025-12-14 23:49:23.000000",600001,"Tamil Nadu","2025-12-14 23:49:23.000000",1
+123,"123 Main Street","Apt 4B",Chennai,India,"2025-12-14 23:50:29.000000",600001,"Tamil Nadu","2025-12-14 23:50:29.000000",1
